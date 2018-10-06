@@ -2,9 +2,10 @@
 
 This project is a how-to guide on using Watson Visual Recognition service to analyse an image and based on a trigger word then send a event command to IoT Device.In this example node-red is used to create an image upload form which sends the image to Watson Visual Recognition and trigger an iot device whenever fire is detected in the image.
 
-1. Login to your IBM CLoud Account
+1. Login/signup in to your [IBM Cloud Account](https://www.ibm.com/cloud/)
 2. Goto Catalog and create the following services:
 * [Internet of things Platform starter](https://console.bluemix.net/catalog/starters/internet-of-things-platform-starter)
+NOTE : You need to create the A Platform Starter App,not Internet of things Platform service.I suggest you use the link above to quickly avoid confusion.
 * [Visual Recognition](https://console.bluemix.net/catalog/services/visual-recognition)
 
 ![creating Services](https://github.com/krishnac7/Media/blob/master/IotImageAnalysis/Gif/creatingServices.gif)
