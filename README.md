@@ -12,7 +12,7 @@ NOTE : You need to create the A Platform Starter App,not Internet of things Plat
 
 ![creating Services](https://github.com/krishnac7/Media/blob/master/IotImageAnalysis/Gif/creatingServices.gif)
 
-NOTE: You can skip steps 3,4
+NOTE: You can skip steps 3,4 & 9
 
 3. Goto connections tab and open IotF Service and Launch Watson Iot Platform
 4. Navigate to Devices tab and Add Device
