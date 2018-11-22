@@ -4,7 +4,7 @@ This project is a how-to guide on using Watson Visual Recognition service to ana
 
  # NOTE: Please check the Video tutorial at the bottom if you have issues.
 
-1. Login/signup in to your [IBM Cloud Account](https://www.ibm.com/cloud/)
+1. Login/signup in to your [IBM Cloud Account](https://ibm.biz/BdY6EN)
 2. Goto Catalog and create the following services:
 * [Internet of things Platform starter](https://console.bluemix.net/catalog/starters/internet-of-things-platform-starter)
 NOTE : You need to create the A Platform Starter App,not Internet of things Platform service.I suggest you use the link above to quickly avoid confusion.
