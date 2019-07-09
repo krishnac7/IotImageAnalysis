@@ -29,7 +29,7 @@ NOTE: You can skip steps 3,4 & 9
 ![Create visual recognition credentials](https://github.com/krishnac7/Media/blob/master/IotImageAnalysis/Gif/VisualRecognitionServiceCredentials.gif)
 
 8. Update api key in the visual recognition node-red flow
-9. Update the device details in IBM Iot device node
+9. Update the device details in IBM Iot device node {Optional}
 
 ![Updating credentials](https://github.com/krishnac7/Media/blob/master/IotImageAnalysis/Gif/updateCredentials.gif)
 
